@@ -1,0 +1,15 @@
+{
+          "courses": [
+                    {
+                              "CourseName": "Calc",
+                              "grades": [],
+                              "CourseCredit": 3
+                    },
+                    {
+                              "CourseName": "Math",
+                              "grades": [],
+                              "CourseCredit": 5
+                    }
+          ],
+          "StudentName": "Jason"
+}

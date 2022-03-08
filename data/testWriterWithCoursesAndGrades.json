@@ -1,0 +1,42 @@
+{
+          "courses": [
+                    {
+                              "CourseName": "Calc",
+                              "grades": [
+                                        {
+                                                  "GradeName": "Homework",
+                                                  "GradeWeight": 45,
+                                                  "GradeNum": 94
+                                        },
+                                        {
+                                                  "GradeName": "Labs",
+                                                  "GradeWeight": 9,
+                                                  "GradeNum": 55
+                                        }
+                              ],
+                              "CourseCredit": 3
+                    },
+                    {
+                              "CourseName": "Math",
+                              "grades": [
+                                        {
+                                                  "GradeName": "Cow",
+                                                  "GradeWeight": 2,
+                                                  "GradeNum": 45
+                                        },
+                                        {
+                                                  "GradeName": "Meow",
+                                                  "GradeWeight": 67,
+                                                  "GradeNum": 22
+                                        },
+                                        {
+                                                  "GradeName": "poop",
+                                                  "GradeWeight": 65,
+                                                  "GradeNum": 44
+                                        }
+                              ],
+                              "CourseCredit": 5
+                    }
+          ],
+          "StudentName": "Jason"
+}
