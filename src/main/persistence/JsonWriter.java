@@ -35,6 +35,7 @@ public class JsonWriter {
     //EFFECTS: closes writer
     public void close() {
         writer.close();
+        
     }
 
     //MODIFIES: this
