@@ -2,6 +2,10 @@
 
 ## Course Grade Calculator and Manager 
 
+## How to run:
+run src/ui/main.java to run main GUI
+run src/ui/MainMenuUI to run terminal application
+
 **What will the application do?**
 
 This application will store courses and have grades in each course. Each grade will have their own weighting and name. 
