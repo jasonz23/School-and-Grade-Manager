@@ -3,7 +3,8 @@
 ## Course Grade Calculator and Manager 
 
 ## How to run:
-run src/ui/main.java to run main GUI
+run src/ui/Main.java to run main GUI
+
 run src/ui/MainMenuUI to run terminal application
 
 **What will the application do?**
